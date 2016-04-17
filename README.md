@@ -1,7 +1,7 @@
 # Archive - Canvas Quick Review
 
 This is an **_Archive from the Early Days_**, trivially experimenting with
-canvas based using EaselJs.
+canvas based text using EaselJs.
 
 It included fooling about with:
 
